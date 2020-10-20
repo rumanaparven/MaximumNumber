@@ -12,10 +12,14 @@ namespace FindMaximumNumber
             this.value = value;
         }
        
-        public T Max()
+        public void Max()
         {
             Array.Sort(this.value);
-            return this.value[^1];
+            PrintMax();
+        }
+        public void PrintMax()
+        {
+            Console.WriteLine("The maximum value is " + this.value[^1]);
         }
         
        
