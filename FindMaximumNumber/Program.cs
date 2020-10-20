@@ -7,6 +7,14 @@ namespace FindMaximumNumber
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to maximum number problem");
+            try
+            {
+                Console.WriteLine(Maximum.FindMax(5, 7, 2) + " is the biggest number");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
         }
     }
 }
