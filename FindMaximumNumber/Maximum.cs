@@ -45,5 +45,26 @@ namespace FindMaximumNumber
                 throw new Exception("Numbers are equal");
             }
         }
+
+        public static string FindMax(string number1, string number2, string number3)
+        {
+           
+            if (number1.CompareTo(number2)>0 && number1.CompareTo(number3)>0)
+            {
+                return number1;
+            }
+            else if (number2.CompareTo(number1) > 0 && number2.CompareTo(number3) > 0)
+            {
+                return number2;
+            }
+            else if (number3.CompareTo(number1) > 0 && number3.CompareTo(number2) > 0)
+            {
+                return number3;
+            }
+            else
+            {
+                throw new Exception("Numbers are equal");
+            }
+        }
     }
 }
