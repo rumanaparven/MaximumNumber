@@ -1,0 +1,13 @@
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.exe
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.deps.json
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.runtimeconfig.json
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.runtimeconfig.dev.json
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.dll
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\bin\Debug\netcoreapp3.1\FindMaximumNumber.pdb
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.csprojAssemblyReference.cache
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.AssemblyInfoInputs.cache
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.AssemblyInfo.cs
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.csproj.CoreCompileInputs.cache
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.dll
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.pdb
+C:\Users\RUMANA\source\repos\FindMaximumNumber\FindMaximumNumber\obj\Debug\netcoreapp3.1\FindMaximumNumber.genruntimeconfig.cache
