@@ -16,7 +16,7 @@ namespace FindMaximumNumber
             GenericMaximum<double> genericDouble = new GenericMaximum<double>(doubleArray);
             Console.WriteLine("The maximum number is "+genericDouble.Max());
 
-            string[] stringArray = { "25", "45", "67", "11", "92" };
+            string[] stringArray = { "25", "45", "88", "11", "92" };
             GenericMaximum<string> genericString = new GenericMaximum<string>(stringArray);
             Console.WriteLine("The maximum number is "+genericString.Max());
         }
